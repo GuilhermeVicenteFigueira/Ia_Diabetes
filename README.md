@@ -91,7 +91,7 @@ Criar interface simples com Streamlit ou Flask
 
 Abaixo está um exemplo do gráfico de desempenho do modelo, evidenciando o overfitting:
 
-(./imagens/imagem_do_grafico_png)
+![Gráfico de Overfitting](./imagens/Imagem_do_grafico.png)
 
 
 
